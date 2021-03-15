@@ -2,4 +2,4 @@
 
 The main script (watermapping_main) uses Google Earth Engine from the python API, together with the geemap library, to analyse the historical changes of the flooding of rice fields in the Albufera wetland.
 
-The "Albufera_timelapse uses geemap to create a timelapse of Albufera during srping season from the 80's.
+The "Albufera_timelapse" uses geemap to create a timelapse of Albufera during srping season from the 80's.
